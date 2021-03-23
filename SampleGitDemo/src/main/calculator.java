@@ -42,7 +42,7 @@ public class calculator {
 	public static void br1func2(int num1){
 	      System.out.println(num1*num1*num1*num1*num1);
 		
-	  }
+	}
 	
 	
 	
